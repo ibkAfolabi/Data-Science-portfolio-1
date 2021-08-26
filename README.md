@@ -44,7 +44,7 @@ Tasks involved;
     ![](images2/pic3.png)
     ![](images2/pic4.png)
     ![](images2/pic5.png)
-    ![](images2/pic5.png)
+    ![](images2/pic6.png)
 
 - [Project 3: Combining Association Rule Mining and Social Network Analysis]()
 -  add description on the projects
