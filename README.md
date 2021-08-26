@@ -13,19 +13,12 @@ Contents
   Tasks involved;
   
     •	Visualize the data to discover outlier if any.
-    
     •	Apply hierarchical clustering with Euclidean distance and Ward’s method. 
-    
     •	Compare the cluster centroid to characterize the different clusters, and try to give each cluster a label.
-    
     •	To check the stability of the clusters.
-    
     •	Determine the most suitable k.
-    
     •	Use k-means clustering to get the clusters in the data using the most suitable
-    
     •	Create the profile of each clusters
-    
     •	Which clusters would you target for offers, and what types of offers would you target to customers in that cluster
     ![](images/picture1.png)
     ![](images/picture2.png)
