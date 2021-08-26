@@ -26,8 +26,7 @@ Contents
     
     •	Create the profile of each clusters
     
-    •	Which clusters would you target for offers, and what types of offers would you target to customers in that cluster?
-
+    •	Which clusters would you target for offers, and what types of offers would you target to customers in that cluster
 
 
 - [Project 2: Start-Up /  Market Exploration]()
