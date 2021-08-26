@@ -12,9 +12,9 @@ Contents
 
 - [Combining Association Rule Mining and Social Network Analysis]()
 
-- [Classification (Predicting Categrical Outcome)] ()
+- [Classification i.e Predicting Categrical Outcome] ()
  
-- [Prediction (Predicting Numerical Outcome] ()
+- [Prediction i.e. Predicting Numerical Outcome] ()
 
 
  Credit
