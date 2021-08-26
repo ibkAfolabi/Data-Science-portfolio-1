@@ -56,6 +56,8 @@ We intend to experiment several prediction algorithms (predicting numeric values
 ![](images4/pict1.png)
 ![](images4/pict2.png)
 ![](images4/pict3.png)
+![](images4/pict5.png)
+![](images4/pict6.png)
 
  Credit
  -------
