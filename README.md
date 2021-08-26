@@ -9,22 +9,21 @@ Contents
 # [Project 1: Segmenting Customers of Different Products](https://github.com/ibkAfolabi/Data-Science-portfolio-1/blob/main/DataScienceGroup1.R)
   
   The focus of this project is to be able to segment existing customers into clusters and study their characteristics so as to use this information to know what kind of prospects   to target. We intent to cluster the prospects to see if their characteristics match our existing customers and target them.
-   
-  Tasks involved;
-  
-  •	Visualize the data to discover outlier if any.
-  •	Apply hierarchical clustering with Euclidean distance and Ward’s method. 
-  •	Compare the cluster centroid to characterize the different clusters, and try to give each cluster a label.
-  •	To check the stability of the clusters.
-  •	Determine the most suitable k.
-  •	Use k-means clustering to get the clusters in the data using the most suitable
-  •	Create the profile of each clusters
-  •	Which clusters would you target for offers, and what types of offers would you target to customers in that cluster
+
+Tasks involved;
+ •	Visualize the data to discover outlier if any.
+ •	Apply hierarchical clustering with Euclidean distance and Ward’s method. 
+ •	Compare the cluster centroid to characterize the different clusters, and try to give each cluster a label.
+ •	To check the stability of the clusters.
+ •	Determine the most suitable k.
+ •	Use k-means clustering to get the clusters in the data using the most suitable
+ •	Create the profile of each clusters
+ •	Which clusters would you target for offers, and what types of offers would you target to customers in that cluster
  ![](images/picture1.png)
- ![](images/picture2.png)
- ![](images/picture3.png)
- ![](images/picture4.png)
- ![](images/Untitled5.png) 
+  ![](images/picture2.png)
+  ![](images/picture3.png)
+  ![](images/picture4.png)
+  ![](images/Untitled5.png) 
    
 
 # [Project 2: Start-Up /  Market Exploration](https://github.com/ibkAfolabi/Data-Science-portfolio-1/blob/main/assign2codes.R)
