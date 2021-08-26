@@ -21,10 +21,10 @@ Contents
     •	Create the profile of each clusters
     •	Which clusters would you target for offers, and what types of offers would you target to customers in that cluster
  ![](images/picture1.png)
-    ![](images/picture2.png)
-    ![](images/picture3.png)
-    ![](images/picture4.png)
-    ![](images/Untitled5.png) 
+ ![](images/picture2.png)
+ ![](images/picture3.png)
+ ![](images/picture4.png)
+ ![](images/Untitled5.png) 
    
 
 # [Project 2: Start-Up /  Market Exploration](https://github.com/ibkAfolabi/Data-Science-portfolio-1/blob/main/assign2codes.R)
