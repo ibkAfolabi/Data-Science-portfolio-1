@@ -48,11 +48,13 @@ Tasks involved;
 
 # [Project 3: Combining Association Rule Mining and Social Network Analysis](https://github.com/ibkAfolabi/Data-Science-portfolio-1/blob/main/assign3codes.R)
 In arranging products for sale, whether online or offline, we will like to know which arrangement will make us to sell more products and make more profit. What products are selling together . Some products will help market or sell other products.
-![](image3/pict1.png)
+![](images3/pict1.png)
  
-# [Project 4: Prediction i.e. Predicting Numerical Outcome]()
+# [Project 4: Prediction i.e. Predicting Numerical Outcome](https://github.com/ibkAfolabi/Data-Science-portfolio-1/blob/main/assign5.R)
 We intend to experiment several prediction algorithms (predicting numeric values) on the same data and report which is the best in terms of accuracy, report the preprocessing technique required for the different algorithms and finally conclude by recommending sales price that will maximize business profit for the case study (the data chosen) selected for the project .
-
+![](images4/pict1.png)
+![](images4/pict2.png)
+![](images4/pict3.png)
 
  Credit
  -------
