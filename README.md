@@ -7,14 +7,20 @@ For more visually pleasant experience for browsing  the portfolio, check [here](
 Contents
 ---------
 - [Project 1: Segmenting Customers of Different Products]()
+  
+  add description on the projects
 
 - [Project 2: Start-Up /  Market Exploration]()
+-  add description on the projects
 
 - [Project 3: Combining Association Rule Mining and Social Network Analysis]()
+-  add description on the projects
 
 - [Project 4: Classification i.e Predicting Categrical Outcome]()
+-  add description on the projects
  
 - [Project 5: Prediction i.e. Predicting Numerical Outcome]()
+-  add description on the projects
 
 
  Credit
