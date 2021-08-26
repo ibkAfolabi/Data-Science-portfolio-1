@@ -1,7 +1,7 @@
 # Data-Science-portfolio-1
 This is a repository containing  portfolio of data science projects which I worked on with my M.Sc students.
 
-For more visually pleasant experience for browsing  the portfolio, check [here]()
+For more visually pleasant experience for browsing  the portfolio, check [here](https://ibkafolabi.github.io/Data-Science-portfolio-1/)
 
 
 Contents
