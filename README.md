@@ -27,7 +27,7 @@ Contents
     ![](images/Untitled5.png) 
    
 
-# [Project 2: Start-Up /  Market Exploration]()
+# [Project 2: Start-Up /  Market Exploration](https://github.com/ibkAfolabi/Data-Science-portfolio-1/blob/main/assign2codes.R)
 Now the availability of social media as a marketing tool brings commercialization and expansion within reach of hundreds of thousands of would-be entrepreneurs, and their financial backers. And because social media has become the communication vehicle of choice for many in the artisan community, it is an important channel for established supply companies whose marketing budgets are not similarly constrained. In the following problems, use social network graph visualizations and metric along with inspection of the data, to learn something about the network.
 
 Tasks involved;
@@ -39,7 +39,12 @@ Tasks involved;
 •	 Can you discern and describe marketing campaigns based on this analysis?
 •	In the network discovered, using the number of common neighbors score, predict the next link to form (that is, suggest which new link has the best chance of success). 
 
-
+![](images2/pic1.png)
+    ![](images2/pic2.png)
+    ![](images2/pic3.png)
+    ![](images2/pic4.png)
+    ![](images2/pic5.png)
+    ![](images2/pic5.png)
 
 - [Project 3: Combining Association Rule Mining and Social Network Analysis]()
 -  add description on the projects
