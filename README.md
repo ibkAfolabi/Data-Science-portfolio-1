@@ -6,15 +6,15 @@ For more visually pleasant experience for browsing  the portfolio, check [here](
 
 Contents
 ---------
-- [Segmenting Customers of Different Products]()
+- [Project 1: Segmenting Customers of Different Products]()
 
-- [Start-Up /  Market Exploration]()
+- [Project 2: Start-Up /  Market Exploration]()
 
-- [Combining Association Rule Mining and Social Network Analysis]()
+- [Project 3: Combining Association Rule Mining and Social Network Analysis]()
 
-- [Classification i.e Predicting Categrical Outcome]()
+- [Project 4: Classification i.e Predicting Categrical Outcome]()
  
-- [Prediction i.e. Predicting Numerical Outcome]()
+- [Project 5: Prediction i.e. Predicting Numerical Outcome]()
 
 
  Credit
