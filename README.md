@@ -20,7 +20,7 @@ Contents
     •	Use k-means clustering to get the clusters in the data using the most suitable
     •	Create the profile of each clusters
     •	Which clusters would you target for offers, and what types of offers would you target to customers in that cluster
-    ![](images/picture1.png)
+ ![](images/Untitled5.png)
     ![](images/picture2.png)
     ![](images/picture3.png)
     ![](images/picture4.png)
