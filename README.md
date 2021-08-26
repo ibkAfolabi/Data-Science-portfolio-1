@@ -6,7 +6,7 @@ For more visually pleasant experience for browsing  the portfolio, check [here](
 
 Contents
 ---------
-- [Project 1: Segmenting Customers of Different Products]()
+# [Project 1: Segmenting Customers of Different Products]()
   
   The focus of this project is to be able to segment existing customers into clusters and study their characteristics so as to use this information to know what kind of prospects   to target. We intent to cluster the prospects to see if their characteristics match our existing customers and target them.
   
@@ -28,8 +28,7 @@ Contents
     
     •	Which clusters would you target for offers, and what types of offers would you target to customers in that cluster
 
-
-- [Project 2: Start-Up /  Market Exploration]()
+# [Project 2: Start-Up /  Market Exploration]()
 -  add description on the projects
 
 - [Project 3: Combining Association Rule Mining and Social Network Analysis]()
