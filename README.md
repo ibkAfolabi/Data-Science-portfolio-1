@@ -6,7 +6,7 @@ For more visually pleasant experience for browsing  the portfolio, check [here](
 
 Contents
 ---------
-# [Project 1: Segmenting Customers of Different Products](https://github.com/ibkAfolabi/Data-Science-portfolio-1/blob/main/DataScienceGroup1)
+# [Project 1: Segmenting Customers of Different Products](https://github.com/ibkAfolabi/Data-Science-portfolio-1/blob/main/DataScienceGroup1.R)
   
   The focus of this project is to be able to segment existing customers into clusters and study their characteristics so as to use this information to know what kind of prospects   to target. We intent to cluster the prospects to see if their characteristics match our existing customers and target them.
   
