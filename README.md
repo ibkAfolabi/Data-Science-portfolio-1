@@ -24,7 +24,7 @@ Contents
     ![](images/picture2.png)
     ![](images/picture3.png)
     ![](images/picture4.png)
-    ![](images/picture5.png) 
+    ![](images/Untitled5.png) 
    
 
 # [Project 2: Start-Up /  Market Exploration]()
