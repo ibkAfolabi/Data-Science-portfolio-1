@@ -50,7 +50,9 @@ In arranging products for sale, whether online or offline, we will like to know 
 ![](images3/pict1.png)
  
 # [Project 4: Prediction i.e. Predicting Numerical Outcome](https://github.com/ibkAfolabi/Data-Science-portfolio-1/blob/main/assign5.R)
-We intend to experiment several prediction algorithms (predicting numeric values) on the same data and report which is the best in terms of accuracy, report the preprocessing technique required for the different algorithms and finally conclude by recommending sales price that will maximize business profit for the case study (the data chosen) selected for the project .
+We intend to experiment several prediction algorithms (predicting numeric values) on the same data and report which is the best in terms of accuracy, report the preprocessing technique required for the different algorithms and finally conclude by recommending sales price that will maximize business profit for the case study (the data chosen) selected for the project .  The predictions algorithms experimented includes;	Neural Network, Multiple linear regression and Regression Trees.  
+
+
 ![](images4/pict1.png)
 ![](images4/pict2.png)
 ![](images4/pict3.png)
