@@ -48,7 +48,7 @@ Tasks involved;
 
 # [Project 3: Combining Association Rule Mining and Social Network Analysis](https://github.com/ibkAfolabi/Data-Science-portfolio-1/blob/main/assign3codes.R)
 In arranging products for sale, whether online or offline, we will like to know which arrangement will make us to sell more products and make more profit. What products are selling together . Some products will help market or sell other products.
- ![](image3/pict1.png)
+![](image3/pict1.png)
  
 # [Project 4: Classification i.e Predicting Categrical Outcome]()
 -  add description on the projects
