@@ -44,6 +44,7 @@ Tasks involved;
 •	 Can you discern and describe marketing campaigns based on this analysis?
 •	In the network discovered, using the number of common neighbors score, predict the next link to form (that is, suggest which new link has the best chance of success). 
 
+Networks revealing Influencers using different centrality measures
 ![](images2/pic1.png)
     ![](images2/pic2.png)
     ![](images2/pic3.png)
