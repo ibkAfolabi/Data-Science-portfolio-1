@@ -49,7 +49,7 @@ Tasks involved;
     ![](images2/pic3.png)
     ![](images2/pic4.png) 
     
-    Egocentric Network of the Recent Networks
+    Egocentric Network of the Recent Users
     
 ![](images2/pic5.png)
     ![](images2/pic6.png)
