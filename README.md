@@ -23,7 +23,11 @@ Tasks involved;
   ![](images/picture2.png)
   ![](images/picture3.png)
   ![](images/picture4.png)
+  
+  Hierarchical clustering with ward method using maximum distance
   ![](images/Untitled5.png) 
+  
+  Creating the profile of each clusters
    
 
 # [Project 2: Start-Up /  Market Exploration](https://github.com/ibkAfolabi/Data-Science-portfolio-1/blob/main/assign2codes.R)
