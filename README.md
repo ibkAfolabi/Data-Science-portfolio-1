@@ -25,6 +25,8 @@ Tasks involved;
   ![](images/picture4.png)
   
   Hierarchical clustering with ward method using maximum distance
+  
+  
   ![](images/Untitled5.png) 
   
   Creating the profile of each clusters
