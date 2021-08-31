@@ -50,6 +50,7 @@ Tasks involved;
     ![](images2/pic4.png) 
     
     Egocentric Network of the Recent Networks
+    
     ![](images2/pic5.png)
     ![](images2/pic6.png)
 
