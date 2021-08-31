@@ -51,7 +51,7 @@ Tasks involved;
     
     Egocentric Network of the Recent Networks
     
-    ![](images2/pic5.png)
+![](images2/pic5.png)
     ![](images2/pic6.png)
 
 # [Project 3: Combining Association Rule Mining and Social Network Analysis](https://github.com/ibkAfolabi/Data-Science-portfolio-1/blob/main/assign3codes.R)
